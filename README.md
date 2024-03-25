@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-With over 15 years of work experience in business and IT roles, I am currently the Managing Director at Inetpub LTD, an IT consulting company. I have been in this position since December 2016. I have worked on an ERP system implementation project, leveraging my expertise in SAP products, enterprise resource planning (ERP), and business analysis. I hold SAP Sales and Distribution certification.
+With over 15 years of work experience in business and IT roles, I am currently the Managing Director at Inetpub LTD, an IT consulting company. I have been in this position since December 2016. I have worked on an ERP system implementation project, leveraging my expertise in SAP products, enterprise resource planning (ERP), and business analysis. I hold SAP Sales and Distribution certification. I am passionate about helping businesses optimize processes, improve performance, and achieve goals through innovative and customized solutions. I value collaboration, creativity, and customer satisfaction and strive to foster a positive and inclusive culture within my team and organization.
 
 I'm now going through a career change from management to a technical position as a Data Scientist. I've just obtained a Microsoft Azure Fundamentals certification and I'm currently self-studying to sit the Microsoft Azure Data Fundamentals certification exam. I'm currently also learning to code, more specifically, I'm deep-diving in my studies to become a proficient Data Scientist through a CoGrammar Bootcamp, which I've been enjoying very much.
 
